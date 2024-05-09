@@ -1,2 +1,2 @@
-# coursera
+# Coursera
 Coursera files and assignments. 
